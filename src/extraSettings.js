@@ -41,5 +41,5 @@ let adLink = 'https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yup
 document.getElementsByTagName("title")[0].innerText = '合成崔佑嘉';
 
 // 开启选分弹窗：将 false 改为 true
-let selectModal = false;
+let selectModal = true;
 
